@@ -1,0 +1,43 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+.header_detail{
+    width: 50%;
+    margin: auto;
+}
+.product_card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* display: flex;
+    align-items: center; */
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+.card{
+    padding: 20px;
+    border: 1px solid red;
+    width: 75%;
+    
+}
+.specialX{
+    margin-top: 25%;
+}
+.special{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

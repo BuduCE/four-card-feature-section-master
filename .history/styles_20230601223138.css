@@ -1,0 +1,49 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+.header_detail{
+    width: 50%;
+    margin: auto;
+}
+.product_card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* display: flex;
+    align-items: center; */
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+.card{
+    padding: 10px 20px;
+    width: 75%;
+    text-align: left;
+    -webkit-box-shadow: 0px 1px 18px 0px rgba(235, 235, 235, 1);
+        -moz-box-shadow: 0px 1px 18px 0px rgba(235, 235, 235, 1);
+        box-shadow: 0px 1px 18px 0px rgba(235, 235, 235, 1);
+        border-radius: 5px;
+}
+.specialX{
+    margin-top: 25%;
+}
+.special{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.a{
+    border-top: 2px solid ;
+}
