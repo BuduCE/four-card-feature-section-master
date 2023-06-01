@@ -14,7 +14,8 @@ body {
     margin: auto;
 }
 .light{
-    font-weight: lighter;
+    font-size: 32px;
+    font-style: lighter;
 }
 .header_detail{
     width: 50%;
