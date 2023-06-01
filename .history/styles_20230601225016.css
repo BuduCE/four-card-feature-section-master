@@ -15,7 +15,7 @@ body {
 }
 @media screen and (max-width: 728px) {
     body{
-        width: 95%;
+        w100%
     }
 }
 .light{

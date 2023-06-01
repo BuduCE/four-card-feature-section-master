@@ -13,11 +13,6 @@ body {
     width: 75%;
     margin: auto;
 }
-@media screen and (max-width: 728px) {
-    body{
-        width: 95%;
-    }
-}
 .light{
     font-weight: lighter;
 }
@@ -45,7 +40,7 @@ body {
         border-radius: 5px;
 }
 .specialX{
-    margin-top: 40%;
+    margin-top: 30%;
 }
 .special{
     display: flex;
