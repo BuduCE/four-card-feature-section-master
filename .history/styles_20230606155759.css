@@ -37,7 +37,7 @@ body {
 }
 .card{
     padding: 10px 20px;
-    width: 75%;
+    width: 100%;
     text-align: left;
     -webkit-box-shadow: 0px 1px 18px 0px rgba(235, 235, 235, 1);
         -moz-box-shadow: 0px 1px 18px 0px rgba(235, 235, 235, 1);
@@ -58,12 +58,6 @@ body {
     }
     .specialX{
         margin-top: 0;
-    }
-    .card{
-        margin: auto;
-    }
-    .header_detail {
-        width: 70%;
     }
 }
 .a{

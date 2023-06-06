@@ -35,6 +35,11 @@ body {
     margin: auto;
     margin-top: 20px;
 }
+@media screen and (max-width: 783px) {
+    .product_card{
+        grid-template-columns: 1fr;
+    }
+}
 .card{
     padding: 10px 20px;
     width: 75%;
@@ -50,21 +55,7 @@ body {
 .special{
     display: flex;
     flex-direction: column;
-    gap: 20px;
-}
-@media screen and (max-width: 783px) {
-    .product_card {
-        grid-template-columns: 1fr;
-    }
-    .specialX{
-        margin-top: 0;
-    }
-    .card{
-        margin: auto;
-    }
-    .header_detail {
-        width: 70%;
-    }
+    /* gap: 20px; */
 }
 .a{
     border-top: 3px solid hsl(180, 62%, 55%);

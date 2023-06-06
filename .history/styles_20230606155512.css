@@ -57,13 +57,7 @@ body {
         grid-template-columns: 1fr;
     }
     .specialX{
-        margin-top: 0;
-    }
-    .card{
-        margin: auto;
-    }
-    .header_detail {
-        width: 70%;
+        
     }
 }
 .a{

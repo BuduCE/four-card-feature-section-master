@@ -62,9 +62,10 @@ body {
     .card{
         margin: auto;
     }
-    .header_detail {
-        width: 70%;
-    }
+        .header_detail {
+            width: 50%;
+            margin: auto;
+        }
 }
 .a{
     border-top: 3px solid hsl(180, 62%, 55%);
